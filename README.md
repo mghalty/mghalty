@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @halty
 - 👀 I’m interested in learning to code.
-- 🌱 I’m currently learning C# through Microsoft online material. 
+- 🌱 I’m currently learning through online material. 
 - 💞️ I’m looking to collaborate on - well, not yet. I still have a lot to learn. 
 - 📫 How to reach me LinkedIn and Twitter. 
 
